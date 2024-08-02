@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "demo (Minecraft 1.20.1)",
       "description": "demo Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://github.com/BabyBear7/demo-distro/raw/main/serverimg.jpg",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -20,8 +20,8 @@
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.15.11",
