@@ -11,7 +11,7 @@
       "id": "demo-1.20.1",
       "name": "demo (Minecraft 1.20.1)",
       "description": "demo Running Minecraft 1.20.1 (Fabric v0.15.11)",
-      "icon": "https://github.com/BabyBear7/demo-distro/raw/main/serverimg.jpg",
+      "icon": "https://raw.githubusercontent.com/yongroro/haryuryuPixelmon-distro/main/serverimg.png",
       "version": "1.0.2",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
